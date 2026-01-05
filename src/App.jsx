@@ -4,6 +4,7 @@ const App = () => {
     return (
      <main>
          <Navbar />
+         <Welcome/>
      </main>
 
     )
